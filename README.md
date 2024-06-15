@@ -17,7 +17,7 @@ This repository showcases my work on various data analysis projects. Feel free t
 
 - 🔭 Excel [Consumer Complaint analysis](https://github.com/1shubhangimishra/EXCEL-PROJECTS.git)
 
-- 👯 Power BI [Credt Card Analysis]
+- 👯 Power BI [Credt Card Analysis](https://github.com/1shubhangimishra/Power-BI-Projects.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
