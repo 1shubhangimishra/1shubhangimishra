@@ -44,9 +44,15 @@ I translate complex statistical concepts into clear and concise narratives, maki
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/1shubhangi-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/1shubhangi-mishra/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Languages**:
+  | Python3 | Pandas | Numpy | SQL (SSMS) |
+  | ---- | ---- | ---- | ---- |
+  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width=55 height=55 /> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width=55 height=55 /> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" width=55 height=55 /> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQL" width=55 height=55 /> |
 
+- **Visualization Tools**: 
+  | Matplotlib | Seaborn | PowerBI | 
+  | ---- | ---- | ---- |
+  | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" width=55 height=55 /> | <img src=images/seaborn_icon.png title="Seaborn" width=55 height=55 /> | <img src=images/powerbi-icon.png title="Power BI" width=55 height=55 /> |
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhangimishra&show_icons=true&locale=en&layout=compact" alt="shubhangimishra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhangimishra&show_icons=true&locale=en" alt="shubhangimishra" /></p>
