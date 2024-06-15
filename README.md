@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm ShubhangiMishra</h1>
 <h3 align="center">A Data Scientist</h3>
 
+
+# About Me
+
+Hey! 👋 I'm Shubhangi Mishra, a passionate data scientist with a knack for turning raw data into actionable insights. 
+Whether it's wrangling messy datasets, creating visualizations, or building predictive models, I thrive on solving real-world problems using data-driven approaches.
+
+This repository showcases my work on various data analysis projects. Feel free to explore my code and reach out if you have any questions!
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangimishra&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangimishra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhangimishra" alt="shubhangimishra" /></a> </p>
 
-- 🔭 Excel [Consumer Complaint analysis]("D:\alabs\Github Projects\customer.csv")
+- 🔭 Excel [Consumer Complaint analysis](https://github.com/1shubhangimishra/EXCEL-PROJECTS.git)
 
-- 👯 Power BI [Credt Card Analysis]("D:\alabs\Github Projects\Credit Card Analysis.pbix")
+- 👯 Power BI [Credt Card Analysis]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
