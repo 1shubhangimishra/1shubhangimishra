@@ -26,6 +26,11 @@ I believe a well-crafted chart can be more impactful than a thousand words, effe
 I'm fluent in the language of databases, crafting complex SQL queries to retrieve the exact data I need for analysis.
 My expertise allows me to efficiently extract and manipulate data, streamlining the analytical process.
 
+## Statistical Storyteller:
+
+I wield the power of statistics, from t-tests to regression models, to extract meaningful information and uncover relationships within data.
+I translate complex statistical concepts into clear and concise narratives, making data accessible to a wider audience.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangimishra&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangimishra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhangimishra" alt="shubhangimishra" /></a> </p>
