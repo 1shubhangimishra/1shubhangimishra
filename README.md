@@ -10,6 +10,21 @@ Whether it's wrangling messy datasets, creating visualizations, or building pred
 This repository showcases my work on various data analysis projects. Feel free to explore my code and reach out if you have any questions!
 
 ---
+# What I Do
+I'm a data enthusiast passionate about transforming raw data into actionable insights.  Here's how I leverage my skills to empower decision-making:
+
+## Data Detective:
+
+I uncover hidden patterns and trends by diving deep into datasets, using my keen eye to identify inconsistencies and ensure data quality. My mantra: "Garbage in, garbage out!"
+I cleanse and prepare data for analysis, ensuring its accuracy and consistency for reliable results
+## Data Visualization Wizard:
+
+I bring data to life with compelling visualizations using tools like Matplotlib, Seaborn, and Power BI.
+I believe a well-crafted chart can be more impactful than a thousand words, effectively communicating insights and driving action.
+## SQL Mastermind:
+
+I'm fluent in the language of databases, crafting complex SQL queries to retrieve the exact data I need for analysis.
+My expertise allows me to efficiently extract and manipulate data, streamlining the analytical process.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangimishra&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangimishra" /> </p>
 
