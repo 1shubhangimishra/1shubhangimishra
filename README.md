@@ -53,7 +53,8 @@ I translate complex statistical concepts into clear and concise narratives, maki
   | Matplotlib | Seaborn | PowerBI | 
   | ---- | ---- | ---- |
   | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" width=55 height=55 /> | <img src=images/seaborn_icon.png title="Seaborn" width=55 height=55 /> | <img src=images/powerbi-icon.png title="Power BI" width=55 height=55 /> |
-  - **Version Control**: 
+- **Version Control**:
+  
   | Git | Github | 
   | ---- | ---- | 
   | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width=55 height=55 /> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" width=55 height=55 /> |
