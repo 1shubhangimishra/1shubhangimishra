@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm ShubhangiMishra</h1>
-<h3 align="center">A Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Shubhangi Mishra</h1>
+<h3 align="center">A Data Analyst</h3>
 
 
 # About Me
 
-Hey! 👋 I'm Shubhangi Mishra, a passionate data scientist with a knack for turning raw data into actionable insights. 
+Hey! 👋 I'm Shubhangi Mishra, a passionate data analyst with a knack for turning raw data into actionable insights. 
 Whether it's wrangling messy datasets, creating visualizations, or building predictive models, I thrive on solving real-world problems using data-driven approaches.
 
 This repository showcases my work on various data analysis projects. Feel free to explore my code and reach out if you have any questions!
